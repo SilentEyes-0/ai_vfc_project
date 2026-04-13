@@ -47,6 +47,8 @@ Research paper based on this framework is currently in preparation.
    pip install numpy pandas matplotlib flask
    
 3. Run the application:
+   
+   ```bash
          python app.py  
    
 
