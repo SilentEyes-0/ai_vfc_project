@@ -16,7 +16,6 @@ This project presents an AI-integrated conceptual framework for vehicular fog co
 
 ## Tech Stack
 - Programming: Python
-- Database: MySQL
 - Web Technologies: HTML, CSS, JavaScript (if used)
 
 ## Methodology
