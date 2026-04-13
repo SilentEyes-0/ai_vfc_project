@@ -49,7 +49,7 @@ Research paper based on this framework is currently in preparation.
 3. Run the application:
    
    ```bash
-         python app.py  
+   python app.py  
    
 
 ## Author
