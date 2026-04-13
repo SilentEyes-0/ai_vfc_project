@@ -35,13 +35,20 @@ The system demonstrates improved task allocation efficiency by dynamically selec
 ## Project Status
 Research paper based on this framework is currently in preparation.
 
-## How to run this project
--Add "Results" folder in the directory first.
--Run this commands in vscode terminal
-  1.  python -m venv venv
-  2.  venv\Scripts\activate
-  3.  pip install numpy pandas matplotlib flask
-Then run app.py
+## How to Run the Project
+
+1. Create a `Results` folder in the project directory.
+
+2. Open the project in VS Code and run the following commands in the terminal:
+
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   pip install numpy pandas matplotlib flask
+   
+3. Run the application:
+         python app.py  
+   
 
 ## Author
 Anjan Manna
