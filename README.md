@@ -16,7 +16,7 @@ This project presents an AI-integrated conceptual framework for vehicular fog co
 
 ## Tech Stack
 - Programming: Python
-- Web Technologies: HTML, CSS, JavaScript (if used)
+- Web Technologies: HTML, CSS
 
 ## Methodology
 1. Designed the conceptual framework for vehicular fog computing  
